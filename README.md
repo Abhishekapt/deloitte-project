@@ -13,5 +13,5 @@ This Tableau dashboard was created as part of the Deloitte Data Analytics Virtua
 - Enables proactive maintenance planning and resource optimization
 
 ## 🖼 Dashboard Preview
-![Dashboard Preview](deloitteProject.png)
+![Dashboard Preview](deloitte project.png).
 
