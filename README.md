@@ -13,13 +13,5 @@ This Tableau dashboard was created as part of the Deloitte Data Analytics Virtua
 - Enables proactive maintenance planning and resource optimization
 
 ## 🖼 Dashboard Preview
-![Dashboard Screenshot](deloitte project.png)
+(deloitte project.png)
 
-## 📂 Files
-- `Deloitte_Dashboard.twbx`: Main Tableau dashboard
-- `data/downtime_data.csv`: Sample dataset
-- `images/dashboard_preview.png`: Dashboard screenshot
-
-## 🔗 How to Use
-1. Open `Deloitte_Dashboard.twbx` in Tableau Public
-2. Explore interactive visuals and insights
